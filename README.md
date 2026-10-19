@@ -13,7 +13,7 @@ ReRest Shop is an online store that sells hygiene and travel products such as hy
 
 This store is part of a bigger website I am already building in my senior project class (**CS 495**). That website, **ReRest**, is a restroom finder: users can find nearby restrooms, see details, rate and review them, and add new ones. **For CS 499, I am only building the e-commerce store.** ReRest will have a **Shop button in the top menu** that takes users to the store, similar to the Shop menu on AllTrails.
 
-The idea is simple: people looking for a restroom often don't have basic things with them, like wipes, sanitizer or seat covers. ReRest Shop gives them one place to buy these items so they are ready next time they are out.
+The idea is simple: people looking for a restroom often don't have basic things with them, like wipes, sanitizer or seat covers. It can also be an emergency, like finding a restroom with no toilet paper or soap. A small kit that fits in your bag can really save you in these moments. ReRest Shop gives people one place to buy these kits and items so they are always ready when they are out.
 
 ---
 
