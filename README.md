@@ -1,5 +1,5 @@
 # ReRest Shop
-CS 499 Project Milestone 1: Project Proposal & Initial Design
+CS-499 Project Milestone 1: Project Proposal & Initial Design
 
 ---
 
@@ -102,4 +102,4 @@ All sketches are in the [`wireframes`](./wireframes) folder.
 | **Order Items** | Order, product, quantity, price when bought |
 | **Payments** | Stripe session ID, amount, payment status |
 
-**Starting products:** Travel Hygiene Kit ($15), Mini Wipes Pack ($4), Hand Sanitizer 2 oz ($5), Toilet Seat Covers 10-pack ($6), Travel Toiletry Bag ($20), Feminine Care Kit ($12), Kids On-the-Go Kit ($14), Mini Disinfecting Spray ($8), Travel Tissue Packs ($4), Emergency Restroom Kit ($18).
+**Example products:** Hygiene kits for men, women and kids (small and large), wipes and hand sanitizer. Prices range from about $4 to $20.
